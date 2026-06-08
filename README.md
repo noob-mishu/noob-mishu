@@ -1,3 +1,13 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Mishu%20Barua&fontSize=50&fontColor=fff&animation=fadeIn)
+
+<div align="center">
+
+### CSE Student | A Fast Learner | Web Developer | 
+
+A passionate developer.
+
+</div>
+
 # 💫 About Me:
 🎯 **A curious and driven Computer Science & Engineering student passionate about transforming ideas into impactful digital solutions.**<br><br>I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **International Islamic University Chittagong (IIUC), Bangladesh 🇧🇩**. I enjoy **building scalable software**, **solving challenging problems**, and exploring **emerging technologies** that shape the future.<br><br>My interests revolve around **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Full Stack Web Development**. I actively strengthen my skills through continuously developing **real-world projects** that combine **creativity** with **technology**.<br><br>From crafting **responsive web applications** to developing **efficient algorithms** and **data-driven solutions**, I strive to write **clean**, **maintainable**, and **meaningful code**. Every project is an opportunity to **learn**, **innovate**, and **create something valuable**.<br><br>I believe that **consistency**, **curiosity**, and **continuous learning** are the foundations of growth in technology. 🚀<br>
 
