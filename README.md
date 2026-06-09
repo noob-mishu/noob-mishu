@@ -26,7 +26,7 @@
 
 <br>
 
-🎯 **A curious and driven Computer Science & Engineering student passionate about transforming ideas into impactful digital solutions.**
+<sub><samp>🎯 *A curious and driven Computer Science & Engineering student passionate about transforming ideas into impactful digital solutions.*</samp></sub>
 
 I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **International Islamic University Chittagong (IIUC), Bangladesh 🇧🇩**.
 
@@ -106,6 +106,82 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
 
 ---
 
+## 🚀 Projects
+
+<div align="center">
+
+| # | Project | Description | Tech Stack | Repo |
+|---|---------|-------------|------------|------|
+| 01 | 🌐 **Personal Portfolio** | A personal portfolio website built from scratch using only HTML and raw CSS — no frameworks. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | [![Repo](https://img.shields.io/badge/View-Repo-00c9ff?style=flat&logo=github)](https://github.com/noob-mishu/Protfolio-Using-Only-Html-And-Raw-Css-) |
+| 02 | ⚽ **FIFA World Cup 2026** | A React + Vite web app featuring FIFA World Cup 2026 info, powered by Firebase for real-time data. | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase) | [![Repo](https://img.shields.io/badge/View-Repo-00c9ff?style=flat&logo=github)](https://github.com/noob-mishu/FIFA-World-Cup-2026) |
+| 03 | 🌸 **Flower Shop** | An elegant flower shop website built with HTML and Tailwind CSS showcasing a clean product UI. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | [![Repo](https://img.shields.io/badge/View-Repo-00c9ff?style=flat&logo=github)](https://github.com/noob-mishu/Flower_Shop) |
+| 04 | 🛒 **MERN E-Commerce** | A full-featured e-commerce platform with user store, admin dashboard, Stripe payments, and JWT auth. | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23000.svg?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | [![Repo](https://img.shields.io/badge/View-Repo-00c9ff?style=flat&logo=github)](https://github.com/noob-mishu/Tools-Project-5th-Sem-) |
+| 05 | 👥 **Employee Management System** | A comprehensive EMS application for managing employee records, roles, and organizational data. | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | [![Repo](https://img.shields.io/badge/View-Repo-00c9ff?style=flat&logo=github)](https://github.com/noob-mishu/Employee-Management-System---EMS) |
+| 06 | 💼 **Job Tracker** | A job application tracking tool built with HTML, Tailwind CSS and JavaScript to manage and monitor job hunt progress. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | [![Repo](https://img.shields.io/badge/View-Repo-00c9ff?style=flat&logo=github)](https://github.com/noob-mishu/Job-Tracker) |
+
+</div>
+
+---
+
+## 💼 Open To
+
+<div align="center">
+
+[![Open To](https://img.shields.io/badge/💼%20Internships-Open-00c9ff?style=for-the-badge&labelColor=0d1117)](mailto:mishubarua320@gmail.com)
+[![Open To](https://img.shields.io/badge/🤝%20Collaborations-Open-9945FF?style=for-the-badge&labelColor=0d1117)](mailto:mishubarua320@gmail.com)
+[![Open To](https://img.shields.io/badge/🌐%20Freelance%20Projects-Open-ff6e00?style=for-the-badge&labelColor=0d1117)](mailto:mishubarua320@gmail.com)
+[![Open To](https://img.shields.io/badge/💡%20Open%20Source-Open-2ea44f?style=for-the-badge&labelColor=0d1117)](https://github.com/noob-mishu)
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 💼 Opportunity | 📋 Details |
+|----------------|------------|
+| 🎓 **Internship** | Looking for software engineering or web development internships |
+| 🤝 **Collaboration** | Open to teaming up on interesting web, AI, or open source projects |
+| 🌐 **Freelance** | Available for freelance web development & UI projects |
+| 💡 **Open Source** | Always happy to contribute to meaningful open source work |
+| 📚 **Mentorship** | Open to learning from experienced developers in the community |
+
+</div>
+
+<div align="center">
+
+> 📬 **Reach me at** — [mishubarua320@gmail.com](mailto:mishubarua320@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mishu-barua-629314271/) &nbsp;|&nbsp; [WhatsApp](https://wa.me/8801558238229)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Category | Topics |
+|----------|--------|
+| 🤖 **AI & Machine Learning** | Deep Learning, Neural Networks, TensorFlow, Scikit-learn |
+| 🌐 **Full Stack Development** | Next.js, Advanced React Patterns, REST & GraphQL APIs |
+| 🗄️ **Backend & Databases** | Node.js, Express, PostgreSQL, Redis |
+| ☁️ **Cloud & DevOps** | Docker, CI/CD, Google Cloud Platform, Firebase |
+| 📊 **Data Science** | Data Visualization, Feature Engineering, Pandas, NumPy |
+| 🔐 **CS Fundamentals** | Algorithms, Data Structures, System Design |
+
+</div>
+
+<div align="center">
+
+![Learning](https://img.shields.io/badge/Focus-Machine%20Learning-ff6e00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Learning](https://img.shields.io/badge/Focus-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Learning](https://img.shields.io/badge/Focus-System%20Design-00c9ff?style=for-the-badge&logo=blueprint&logoColor=white)
+![Learning](https://img.shields.io/badge/Focus-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,23 +192,33 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
 
 <br>
 
-<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=noob-mishu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=420" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=noob-mishu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" height="180" alt="Top Languages" />
-
-</div>
 
 <br>
+<div align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noob-mishu&theme=tokyonight" height="180" alt="Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noob-mishu&theme=tokyonight&utcOffset=6" height="180" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noob-mishu&theme=tokyonight" height="180" alt="Repos Per Language" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noob-mishu&theme=tokyonight" height="180" alt="Most Commit Language" />
+  &nbsp;&nbsp;
+ 
+</div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=noob-mishu&theme=tokyonight&hide_border=true&stroke=00c9ff&ring=00c9ff&fire=ff6e00&currStreakLabel=00c9ff&sideLabels=00c9ff&dates=ffffff" width="70%" alt="GitHub Streak" />
 
 </div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noob-mishu&theme=tokyonight" width="100%" alt="Profile Summary" />
+</div>
+
 
 <br>
+
 
 <div align="center">
 
@@ -160,19 +246,11 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/noob-mishu/noob-mishu/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=noob-mishu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=1514)
 
-*Crafted with ❤️ by Mishu Barua*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=✨+Crafted+with+%E2%9D%A4%EF%B8%8F+%26+Code+by+Mishu+Barua;🚀+Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time;💡+Let%27s+Build+Something+Amazing+Together!)](https://github.com/noob-mishu)
 
 </div>
 
