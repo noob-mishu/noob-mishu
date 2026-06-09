@@ -6,33 +6,9 @@
 
 </div>
 
----
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
----
-
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100029843192758" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/itz_mishubarua/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/mishu-barua-629314271/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
-  </a>&nbsp;
-  <a href="mailto:mishubarua320@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
-  </a>&nbsp;
-  <a href="https://wa.me/8801558238229" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=noob-mishu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=1514" alt="Profile Views" />
@@ -64,7 +40,25 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
 
 ## 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishubarua320@gmail.com)
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100029843192758" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/itz_mishubarua/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/mishu-barua-629314271/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+  </a>&nbsp;
+  <a href="mailto:mishubarua320@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
+  </a>&nbsp;
+  <a href="https://wa.me/8801558238229" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo" />
+  </a>
+</div>
+
+<br>
 
 ---
 
