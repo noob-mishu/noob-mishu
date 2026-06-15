@@ -208,7 +208,7 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=noob-mishu&theme=tokyonight&hide_border=true&stroke=00c9ff&ring=00c9ff&fire=ff6e00&currStreakLabel=00c9ff&sideLabels=00c9ff&dates=ffffff" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=noob-mishu&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 <br>
