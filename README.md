@@ -34,7 +34,7 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
 - 🌱 My interests span **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Full Stack Web Development**
 - ⚡ I actively sharpen my skills through **real-world projects** that blend **creativity** with **technology**
 - ✍️ I strive to write **clean**, **maintainable**, and **meaningful code** — every project is a chance to learn and innovate
-- 💡 I believe that **consistency**, **curiosity**, and **continuous learning** are the foundations of growth in tech 🚀
+- 💡 I believe that **consistency**, **curiosity**, and **continuous learning** are the foundations of growth in tech industry 🚀
 
 ---
 
