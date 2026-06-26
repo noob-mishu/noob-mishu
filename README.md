@@ -192,8 +192,6 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
 
 <br>
 
-
-
 <br>
 <div align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noob-mishu&theme=tokyonight" height="180" alt="Stats" />
@@ -203,12 +201,11 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noob-mishu&theme=tokyonight" height="180" alt="Most Commit Language" />
   &nbsp;&nbsp;
- 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=noob-mishu&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=noob-mishu&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 <br>
@@ -216,9 +213,7 @@ I am currently pursuing a **B.Sc. in Computer Science & Engineering** at **Inter
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noob-mishu&theme=tokyonight" width="100%" alt="Profile Summary" />
 </div>
 
-
 <br>
-
 
 <div align="center">
 
